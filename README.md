@@ -43,6 +43,15 @@ However, it's generally accepted that Vanilla-CSS can outperform any of the abov
 | UIKit       | 765 KB        |
 | Vanilla-CSS | 0 KB          |
 
+### Node
+```
+npm install --save vanilla-css
+```
+
+```javascript
+require('vanilla-css)
+```
+
 ### Docker
 We're on the Docker Registry!
 ```
