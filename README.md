@@ -51,6 +51,7 @@ npm install --save vanilla-css
 ```javascript
 require('vanilla-css)
 ```
+And you're done!
 
 ### Docker
 We're on the Docker Registry!
