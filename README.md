@@ -59,6 +59,7 @@ We're on the Docker Registry!
 docker pull seikho/vanilla-css:latest
 docker run -d -p 8080:8080 seikho/vanilla-css:latest
 ```
+Then head to `http://localhost:8080` !
    
 ### Download
 Ready to try Vanilla CSS?  Follow these simple steps
