@@ -25,7 +25,8 @@ The Vanilla CSS team maintains every byte of code in the framework and works har
 * PayPal  
 * Reddit  
 * Netflix  
-* Stack Overflow  
+* Stack Overflow
+* Altavista
 
 In fact, Vanilla CSS is already used on more websites than LESS, SASS, Stylus, and BEM - _combined_.  In addition Vanilla CSS is fully ready for mobile responsiveness (see @media queries)
   
