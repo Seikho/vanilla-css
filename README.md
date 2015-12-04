@@ -42,6 +42,12 @@ However, it's generally accepted that Vanilla-CSS can outperform any of the abov
 | Skeleton    | 8.11 KB       |
 | UIKit       | 765 KB        |
 | Vanilla-CSS | 0 KB          |
+
+### Docker
+```
+docker pull seikho/vanilla-css:latest
+docker run -d -p 8080:8080 seikho/vanilla-css:latest
+```
    
 ### Download
 Ready to try Vanilla CSS?  Follow these simple steps
