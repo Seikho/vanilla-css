@@ -44,6 +44,7 @@ However, it's generally accepted that Vanilla-CSS can outperform any of the abov
 | Vanilla-CSS | 0 KB          |
 
 ### Docker
+We're on the Docker Registry!
 ```
 docker pull seikho/vanilla-css:latest
 docker run -d -p 8080:8080 seikho/vanilla-css:latest
