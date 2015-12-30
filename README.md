@@ -53,7 +53,7 @@ npm install --save vanilla-css
 ```
 
 ```javascript
-require('vanilla-css);
+require('vanilla-css');
 ```
 And you're done!
 
