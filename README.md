@@ -8,6 +8,7 @@
 Introduction
 The Vanilla CSS team maintains every byte of code in the framework and works hard each day to make sure it is small and intuitive. Who's using Vanilla CSS? Glad you asked! Here are a few:
 
+* Concierge
 * Reddit
 * Vanilla-CSS
 * Facebook	 
